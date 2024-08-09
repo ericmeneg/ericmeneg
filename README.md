@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, eu sou o Eric Menegon 👋
+
+Eu estou estudando desenvolvimento de software multiplataforma na [FATEC de Indaiatuba](http://www.fatecid.com.br/site/), no meu segundo semestre
 
 <!--
 **ericmeneg/ericmeneg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
