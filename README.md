@@ -5,8 +5,12 @@ Eu estou estudando desenvolvimento de software multiplataforma na [FATEC de Inda
 ### Me encontre no linkedin! <br> [<img src="./assets/linkedin_logo.svg" width="40">](https://www.linkedin.com/in/eric-vinicius-da-silva-menegon) 
 
 
-### Ou me mande um email! <br> [<img src='./assets/mail.svg' width = 40>  ericvinicius.menegon@gmail.com](mailto:ericvinicius.menegon@gmail.com)
+### Ou me mande um email! <br> [ericvinicius.menegon@gmail.com](mailto:ericvinicius.menegon@gmail.com)
 
+
+### :bar_chart: Métricas do meu perfil no Github
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ericmeneg&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmeneg&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ericmeneg/ericmeneg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
