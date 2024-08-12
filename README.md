@@ -1,10 +1,10 @@
 ## Oi, eu sou o Eric Menegon 👋
 
-Eu estou estudando desenvolvimento de software multiplataforma na [FATEC de Indaiatuba](http://www.fatecid.com.br/site/), atualmente estou no meu segundo semestre.
+Eu estou estudando desenvolvimento de software multiplataforma na [FATEC de Indaiatuba](http://www.fatecid.com.br/site/), atualmente cursando meu segundo semestre.
 
-### Me encontre no linkedin! [<img src="./assets/linkedin_logo.svg" width="25">](https://www.linkedin.com/in/eric-vinicius-da-silva-menegon)
+### Me encontre no linkedin! <br> [<img src="./assets/linkedin_logo.svg" width="40">](https://www.linkedin.com/in/eric-vinicius-da-silva-menegon) 
 
-### [Ou me mande um email!](mailto:ericvinicius.menegon@gmail.com)
+### Ou me mande um email! [ericvinicius.menegon@gmail.com](mailto:ericvinicius.menegon@gmail.com)
 
 
 <!--
