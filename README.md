@@ -4,8 +4,6 @@ Eu estou estudando desenvolvimento de software multiplataforma na [FATEC de Inda
 
 ### Me encontre no linkedin! [<img src="./assets/linkedin_logo.svg" width="40">](https://www.linkedin.com/in/eric-vinicius-da-silva-menegon)
 
-<br>
-
 ### [Ou me mande um email!](mailto:ericvinicius.menegon@gmail.com)
 
 
