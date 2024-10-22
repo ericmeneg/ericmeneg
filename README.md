@@ -9,8 +9,8 @@ Eu estou estudando desenvolvimento de software multiplataforma na [FATEC de Inda
 
 
 ### :bar_chart: Métricas do meu perfil no Github
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ericmeneg&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmeneg&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ericmeneg&theme=transparent&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmeneg&theme=transparent&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ericmeneg/ericmeneg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
